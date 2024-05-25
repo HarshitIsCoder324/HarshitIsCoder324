@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshitIsCoder324
-- 👀 I’m interested in Programming, Playing Chess, Playing piano, Photograhpy
-- 🌱 I’m currently learning Tailwind CSS, JavaScript, PHP
+- 👀 I’m interested in Programming, Basketball, Playing piano, Photograhpy
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hsatyawali298@gmail.com
 
